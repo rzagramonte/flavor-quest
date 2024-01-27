@@ -13,21 +13,21 @@ CSS: Styling is achieved with CSS to enhance the visual appeal and layout of the
 JavaScript: The dynamic functionality of the app is powered by JavaScript. The client-side script interacts with TheMealDB API to fetch and display recipe details based on user input.
 
 ## Optimizations
-During the development of FlavorQuest, I focused on refining the code to enhance both performance and maintainability. Here are some optimizations that have been implemented:
+During the development of FlavorQuest, I focused on refining the code to enhance both performance and maintainability. Here are some optimizations that I would have implemented:
 
 1. DRY Code with querySelectorAll and forEach:
-To improve code readability and maintainability, I refactored the JavaScript code using querySelectorAll and forEach. This allows for a more concise and efficient way to update multiple elements with the fetched data.
+To improve code readability and maintainability, I would refactor the JavaScript code using querySelectorAll and forEach. This would allow for a more concise and efficient way to update multiple elements with the fetched data.
 
 2. Error Handling:
-To enhance user experience, I implemented more robust error handling. The code now checks for a valid recipe in the API response before attempting to access its properties, preventing potential runtime errors.
+To enhance user experience, I would implement a more robust error-handling mechanism. The code now checks for a valid recipe in the API response before attempting to access its properties, preventing potential runtime errors.
 
 3. Loading Feedback:
-For a smoother user interaction, I considered user feedback during the API request. This includes the addition of loading spinners or messages to indicate ongoing background processes.
+For a smoother user interaction, I would enhance the user experience during the API request. This includes the addition of loading spinners or messages to indicate ongoing background processes.
 
 4. Code Comments:
-To aid in understanding the codebase, I included comments on key sections of the code. These comments provide insights into the logic behind each step, making it easier for developers to navigate and comprehend the code.
+To aid in understanding the codebase, I would include comments on key sections of the code. These comments provide insights into the logic behind each step, making it easier for developers to navigate and comprehend the code.
 
-These optimizations improve the efficiency of FlavorQuest and contribute to a more maintainable and user-friendly application.
+These optimizations would improve the efficiency of FlavorQuest and contribute to a more maintainable and user-friendly application.
 
 ## Lessons Learned:
 

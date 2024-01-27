@@ -13,7 +13,7 @@ CSS: Styling is achieved with CSS to enhance the visual appeal and layout of the
 JavaScript: The dynamic functionality of the app is powered by JavaScript. The client-side script interacts with TheMealDB API to fetch and display recipe details based on user input.
 
 ## Optimizations
-During the development of FlavorQuest, I focused on refining the code to enhance both performance and maintainability. Here are some optimizations that I would have implemented:
+After the initial development of FlavorQuest, I realized that refining the code would enhance both performance and maintainability. Here are some optimizations that I would implement:
 
 1. DRY Code with querySelectorAll and forEach:
 To improve code readability and maintainability, I would refactor the JavaScript code using querySelectorAll and forEach. This would allow for a more concise and efficient way to update multiple elements with the fetched data.
